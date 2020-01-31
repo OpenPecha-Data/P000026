@@ -1,0 +1,38 @@
+ebook_metadata:
+  title: ༄༅། །ཕྱག་ཆེན་སྨོན་ལམ་འགྲེལ་ཆུང་དྭགས་བརྒྱུད་དགོངས་རྒྱན་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ༧སྐྱབས་རྗེ་གྲུབ་དབང་སངས་རྒྱས་མཉན་པ་རིན་པོ་ཆེ།
+  sku: LEK-PHI-009
+  layers:
+  - book_title
+  - author
+  - tsawa
+  - sabche
+web_metadata:
+  title:
+    en: An Ornament to the Wisdom Lineage of the Dakpo Kagyu:A Short Commentary on
+      the Aspirational Prayer for Mahamudra
+    bo: ཕྱག་ཆེན་སྨོན་ལམ་འགྲེལ་ཆུང་དྭགས་བརྒྱུད་དགོངས་རྒྱན་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  collection:
+    en: Lekshey Ling Philosophy Series–  Book 9
+    bo: ལེགས་བཤད་གླིང་རིགས་པའི་གཞུང་ལུགས།–  དེབ། ༩
+  author:
+    en: Kyabje Sangye Nyenpa Rinpoche
+    bo: ༧སྐྱབས་རྗེ་སངས་རྒྱས་མཉན་པ་རིན་པོ་ཆེ།
+  pusblisher:
+    en: Lekshey Ling Publications
+    bo: ཀརྨ་ལེགས་བཤད་གླིང།
+  sku: LEK-PHI-009
+  category:
+    en: Mahamudra
+    bo: ཕྱག་རྒྱ་ཆེན་པོ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: LEK-PHI-009.epub
+  description:
+    en: ''
+    bo: ''

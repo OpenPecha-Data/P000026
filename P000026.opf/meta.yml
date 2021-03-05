@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000026
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཕྱག་ཆེན་སྨོན་ལམ་འགྲེལ་ཆུང་དྭགས་བརྒྱུད་དགོངས་རྒྱན་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ༧སྐྱབས་རྗེ་གྲུབ་དབང་སངས་རྒྱས་མཉན་པ་རིན་པོ་ཆེ།
-  sku: LEK-PHI-009
   layers:
   - book_title
   - author
   - tsawa
   - sabche
+  id: LEK-PHI-009
 web_metadata:
   title:
     en: An Ornament to the Wisdom Lineage of the Dakpo Kagyu:A Short Commentary on
